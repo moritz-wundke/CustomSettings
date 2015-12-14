@@ -1,2 +1,3 @@
-# ue4tutorials-customsettings
-UE4 Tutorial - Custom Settings
+# UE4 Tutorials - Custom Cettings
+
+Source code for: https://wiki.unrealengine.com/CustomSettings
